@@ -1,9 +1,0 @@
-path: /Users/jonahlevitz/IESOSC_Imagerecognition/documents/rps  # dataset root dir
-train: dataset/train/images  # train images
-val: dataset/val/images  # val images
-
-# Classes
-names:
-  0: rock
-  1: paper
-  2: scissors 
